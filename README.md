@@ -1,2 +1,2 @@
-# dynamic_regress
+# **Estudos Curso Flai**
 Regressão Dinâmica
